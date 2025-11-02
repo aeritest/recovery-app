@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recovery-app/static/css/main.b981938f.css",
+    "main.css": "/recovery-app/static/css/main.f70b4ec7.css",
     "main.js": "/recovery-app/static/js/main.2c5cb0b2.js",
     "static/js/453.1c7ffe4f.chunk.js": "/recovery-app/static/js/453.1c7ffe4f.chunk.js",
     "index.html": "/recovery-app/index.html",
-    "main.b981938f.css.map": "/recovery-app/static/css/main.b981938f.css.map",
+    "main.f70b4ec7.css.map": "/recovery-app/static/css/main.f70b4ec7.css.map",
     "main.2c5cb0b2.js.map": "/recovery-app/static/js/main.2c5cb0b2.js.map",
     "453.1c7ffe4f.chunk.js.map": "/recovery-app/static/js/453.1c7ffe4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b981938f.css",
+    "static/css/main.f70b4ec7.css",
     "static/js/main.2c5cb0b2.js"
   ]
 }

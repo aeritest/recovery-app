@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.b981938f.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAGnB,KACE,8EACF","sources":["index.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n/* Optional global styles */\nbody {\n  @apply bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900 text-white;\n}\n"],"names":[],"sourceRoot":""}
