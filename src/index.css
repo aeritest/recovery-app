@@ -1,5 +1,25 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Optional global styles */
+html, body {
+  @apply bg-gradient-to-br from-indigo-900 via-purple-900 to-pink-900 text-white min-h-screen overscroll-none overflow-x-hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Mobile optimizations */
+@layer utilities {
+  .safe-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+/* Performance optimizations */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
