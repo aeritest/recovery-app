@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recovery-app/static/css/main.c7ec3132.css",
+    "main.js": "/recovery-app/static/js/main.d7590be5.js",
+    "static/js/453.1c7ffe4f.chunk.js": "/recovery-app/static/js/453.1c7ffe4f.chunk.js",
+    "index.html": "/recovery-app/index.html",
+    "main.c7ec3132.css.map": "/recovery-app/static/css/main.c7ec3132.css.map",
+    "main.d7590be5.js.map": "/recovery-app/static/js/main.d7590be5.js.map",
+    "453.1c7ffe4f.chunk.js.map": "/recovery-app/static/js/453.1c7ffe4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.d7590be5.js"
+  ]
+}
